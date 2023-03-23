@@ -42,6 +42,7 @@
 30. Utiliser le auto scaling cluster pour ajouter de façon automatique des nodes sur votre cluster(simple avec les cloud provider).
 31. Utiliser Terraform pour automatiser le provisionnement de votre infrastructure.
 32. Utiliser Helm pour déployer vos applications: Respecter les bonnes pratiques (hooks pre-install, pre-upgrade)
+33. Utiliser un storage class (NFS Storage système de stockage) pour pouvoir provisionner des volumes: provisionner des volumes utiliser par Prometheus monitoring exemple 
 
 
 ## Liens utils
